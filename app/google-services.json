@@ -1,0 +1,85 @@
+{
+  "project_info": {
+    "project_number": "1040920046582",
+    "firebase_url": "https://farmer-friend-7831b.firebaseio.com",
+    "project_id": "farmer-friend-7831b",
+    "storage_bucket": "farmer-friend-7831b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1040920046582:android:8f4a7a2d9c88fdb90d35d7",
+        "android_client_info": {
+          "package_name": "com.diu.farmerfriendsupport"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1040920046582-hb5f7ft544nmsb72tmsi94e5plqds5fa.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.diu.farmerfriendsupport",
+            "certificate_hash": "b0bc5cac66e8354e4eaedc043fe6399ea319d516"
+          }
+        },
+        {
+          "client_id": "1040920046582-kvtc4980upgaa1fk6vf3ttlhe1a865am.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVJw3Hk_Iyv7u85zgTj8Yj1uccbMtdcJk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1040920046582-kvtc4980upgaa1fk6vf3ttlhe1a865am.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1040920046582:android:a3760978f17fa8450d35d7",
+        "android_client_info": {
+          "package_name": "com.example.farmerfriend"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1040920046582-0etahop23c4gb9qa8haddup0sv3ac2r7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.farmerfriend",
+            "certificate_hash": "b0bc5cac66e8354e4eaedc043fe6399ea319d516"
+          }
+        },
+        {
+          "client_id": "1040920046582-kvtc4980upgaa1fk6vf3ttlhe1a865am.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVJw3Hk_Iyv7u85zgTj8Yj1uccbMtdcJk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1040920046582-kvtc4980upgaa1fk6vf3ttlhe1a865am.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">FarmerFriendSupport</string>
+    <string name="sign_up">সাইন আপ</string>
+    <string name="login">লগ ইন</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="message">মেসেজ</string>
+    <string name="logout">লগ আউট</string>
+    <string name="email">ই-মেইল</string>
+    <string name="password">পাসওয়ার্ড</string>
+    <string name="forgetPassword">পাসওয়ার্ড ভুলে গেছেন</string>
+    <string name="notRegisterd">নিবন্ধিত না ? এখানে নিবন্ধন করুন</string>
+    <string name="newaccount">নতুন অ্যাকাউন্ট</string>
+    <string name="fullname">পুরো নাম</string>
+    <string name="signup">নিবন্ধন করুন</string>
+    <string name="alreadyhaveaanaccount">ইতিমধ্যে একটি অ্যাকাউন্ট আছে? এখানে লগইন করুন</string>
+    <string name="passwordreset">পাসওয়ার্ড পুনরায় সেট করুন</string>
+    <string name="emailtoresetpassword">পাসওয়ার্ড রিসেট করতে আপনার ইমেল লিখুন</string>
+    <string name="resetLink">রিসেট লিংক আবেদন করুন</string>
+</resources>

@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center"
+    android:background="@drawable/ic_paddy"
+    tools:context=".Activity.Login">
+
+
+    <ProgressBar
+        android:id="@+id/loginProgressBar"
+        android:visibility="gone"
+        android:layout_margin="10dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+    </ProgressBar>
+    <TextView
+        android:layout_margin="20dp"
+        android:textColor="#000"
+        android:textSize="25sp"
+        android:gravity="center"
+        android:text="@string/login"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+    </TextView>
+
+    <EditText
+        android:id="@+id/editTextLoginEmail"
+        android:hint="@string/email"
+        android:layout_margin="20dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+    </EditText>
+
+
+    <EditText
+        android:id="@+id/editTextLoginPassword"
+        android:inputType="textPassword"
+        android:hint="@string/password"
+        android:layout_margin="20dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+    </EditText>
+
+
+    <Button
+        android:background="@drawable/button_ripple"
+        android:id="@+id/btnLogin"
+        android:textColor="#fff"
+        android:textSize="18sp"
+        android:layout_margin="20dp"
+        android:gravity="center"
+        android:text="@string/login"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+    </Button>
+
+    <TextView
+        android:id="@+id/textViewForgetPassword"
+        android:textSize="15sp"
+        android:textColor="#000"
+        android:text="@string/forgetPassword"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+
+    </TextView>
+
+    <TextView
+        android:layout_marginTop="20dp"
+        android:id="@+id/ctxtSignUpHere"
+        android:textSize="15sp"
+        android:textColor="#000"
+        android:text="@string/notRegisterd"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+
+    </TextView>
+
+
+</LinearLayout>
